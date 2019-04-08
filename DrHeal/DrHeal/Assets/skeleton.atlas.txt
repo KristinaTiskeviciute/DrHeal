@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zombie bust
+  rotate: false
+  xy: 2, 634
+  size: 450, 630
+  orig: 450, 630
+  offset: 0, 0
+  index: -1
+zombie head
+  rotate: false
+  xy: 454, 1266
+  size: 450, 630
+  orig: 450, 630
+  offset: 0, 0
+  index: -1
+zombie left arm
+  rotate: false
+  xy: 2, 2
+  size: 450, 630
+  orig: 450, 630
+  offset: 0, 0
+  index: -1
+zombie left calve
+  rotate: false
+  xy: 454, 634
+  size: 450, 630
+  orig: 450, 630
+  offset: 0, 0
+  index: -1
+zombie left thigh
+  rotate: false
+  xy: 454, 2
+  size: 450, 630
+  orig: 450, 630
+  offset: 0, 0
+  index: -1
+zombie right leg
+  rotate: false
+  xy: 906, 1266
+  size: 450, 630
+  orig: 450, 630
+  offset: 0, 0
+  index: -1
+zombie undie
+  rotate: false
+  xy: 2, 1266
+  size: 450, 630
+  orig: 450, 630
+  offset: 0, 0
+  index: -1

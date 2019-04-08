@@ -1,0 +1,153 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back front/back front calve
+  rotate: false
+  xy: 454, 1630
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+back front/back front feet
+  rotate: false
+  xy: 906, 1630
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+back front/back front thight
+  rotate: false
+  xy: 1358, 1630
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+back front/back front toe
+  rotate: true
+  xy: 2, 1178
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+backback/back back calves
+  rotate: true
+  xy: 2, 726
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+backback/back back feet
+  rotate: true
+  xy: 2, 274
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+backback/back back thigh
+  rotate: false
+  xy: 364, 1268
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+backback/back back toe
+  rotate: false
+  xy: 816, 1268
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+foward back/forward back feet
+  rotate: false
+  xy: 1268, 1268
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+foward back/forward back toe
+  rotate: true
+  xy: 364, 816
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+foward back/foward back calve
+  rotate: true
+  xy: 364, 364
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+foward back/foward back thigh
+  rotate: false
+  xy: 364, 2
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+foward front/foward front calve
+  rotate: true
+  xy: 726, 816
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+foward front/foward front feet
+  rotate: true
+  xy: 726, 364
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+foward front/foward front thigh
+  rotate: false
+  xy: 816, 2
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+foward front/foward front toe
+  rotate: false
+  xy: 2, 1630
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1088, 816
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 1088, 364
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+pelvic
+  rotate: false
+  xy: 1268, 2
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+ribs
+  rotate: false
+  xy: 1450, 906
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 1450, 454
+  size: 450, 360
+  orig: 450, 360
+  offset: 0, 0
+  index: -1

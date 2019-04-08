@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Left arm
+  rotate: false
+  xy: 2, 1446
+  size: 630, 450
+  orig: 630, 450
+  offset: 0, 0
+  index: -1
+Left hand idle
+  rotate: false
+  xy: 2, 994
+  size: 630, 450
+  orig: 630, 450
+  offset: 0, 0
+  index: -1
+Right hand idle
+  rotate: false
+  xy: 634, 1446
+  size: 630, 450
+  orig: 630, 450
+  offset: 0, 0
+  index: -1
+back tube
+  rotate: false
+  xy: 634, 994
+  size: 630, 450
+  orig: 630, 450
+  offset: 0, 0
+  index: -1
+body idle
+  rotate: false
+  xy: 1266, 1446
+  size: 630, 450
+  orig: 630, 450
+  offset: 0, 0
+  index: -1
+body open 
+  rotate: false
+  xy: 2, 542
+  size: 630, 450
+  orig: 630, 450
+  offset: 0, 0
+  index: -1
+cannister
+  rotate: false
+  xy: 2, 90
+  size: 630, 450
+  orig: 630, 450
+  offset: 0, 0
+  index: -1
+gun idle
+  rotate: false
+  xy: 634, 542
+  size: 630, 450
+  orig: 630, 450
+  offset: 0, 0
+  index: -1
+head idle
+  rotate: false
+  xy: 1266, 994
+  size: 630, 450
+  orig: 630, 450
+  offset: 0, 0
+  index: -1
+left leg
+  rotate: false
+  xy: 634, 90
+  size: 630, 450
+  orig: 630, 450
+  offset: 0, 0
+  index: -1
+right leg
+  rotate: false
+  xy: 1266, 542
+  size: 630, 450
+  orig: 630, 450
+  offset: 0, 0
+  index: -1

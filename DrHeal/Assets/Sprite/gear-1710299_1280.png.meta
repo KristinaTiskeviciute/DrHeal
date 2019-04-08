@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: 38ed59d0198e56846bae63388e7e946f
+timeCreated: 1509894012
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gear-1710299_1280_0
+    21300002: gear-1710299_1280_1
+    21300004: gear-1710299_1280_2
+    21300006: gear-1710299_1280_3
+    21300008: gear-1710299_1280_4
+    21300010: gear-1710299_1280_5
+    21300012: gear-1710299_1280_6
+    21300014: gear-1710299_1280_7
+    21300016: gear-1710299_1280_8
+    21300018: gear-1710299_1280_9
+    21300020: gear-1710299_1280_10
+    21300022: gear-1710299_1280_11
+    21300024: gear-1710299_1280_12
+    21300026: gear-1710299_1280_13
+    21300028: gear-1710299_1280_14
+    21300030: gear-1710299_1280_15
+    21300032: gear-1710299_1280_16
+    21300034: gear-1710299_1280_17
+    21300036: gear-1710299_1280_18
+    21300038: gear-1710299_1280_19
+    21300040: gear-1710299_1280_20
+    21300042: gear-1710299_1280_21
+    21300044: gear-1710299_1280_22
+    21300046: gear-1710299_1280_23
+    21300048: gear-1710299_1280_24
+    21300050: gear-1710299_1280_25
+    21300052: gear-1710299_1280_26
+    21300054: gear-1710299_1280_27
+    21300056: gear-1710299_1280_28
+    21300058: gear-1710299_1280_29
+    21300060: gear-1710299_1280_30
+    21300062: gear-1710299_1280_31
+    21300064: gear-1710299_1280_32
+    21300066: gear-1710299_1280_33
+    21300068: gear-1710299_1280_34
+    21300070: gear-1710299_1280_35
+    21300072: gear-1710299_1280_36
+    21300074: gear-1710299_1280_37
+    21300076: gear-1710299_1280_38
+    21300078: gear-1710299_1280_39
+    21300080: gear-1710299_1280_40
+    21300082: gear-1710299_1280_41
+    21300084: gear-1710299_1280_42
+    21300086: gear-1710299_1280_43
+    21300088: gear-1710299_1280_44
+    21300090: gear-1710299_1280_45
+    21300092: gear-1710299_1280_46
+    21300094: gear-1710299_1280_47
+    21300096: gear-1710299_1280_48
+    21300098: gear-1710299_1280_49
+    21300100: gear-1710299_1280_50
+    21300102: gear-1710299_1280_51
+    21300104: gear-1710299_1280_52
+    21300106: gear-1710299_1280_53
+    21300108: gear-1710299_1280_54
+    21300110: gear-1710299_1280_55
+    21300112: gear-1710299_1280_56
+    21300114: gear-1710299_1280_57
+    21300116: gear-1710299_1280_58
+    21300118: gear-1710299_1280_59
+    21300120: gear-1710299_1280_60
+    21300122: gear-1710299_1280_61
+    21300124: gear-1710299_1280_62
+    21300126: gear-1710299_1280_63
+    21300128: gear-1710299_1280_64
+    21300130: gear-1710299_1280_65
+    21300132: gear-1710299_1280_66
+    21300134: gear-1710299_1280_67
+    21300136: gear-1710299_1280_68
+    21300138: gear-1710299_1280_69
+    21300140: gear-1710299_1280_70
+    21300142: gear-1710299_1280_71
+    21300144: gear-1710299_1280_72
+    21300146: gear-1710299_1280_73
+    21300148: gear-1710299_1280_74
+    21300150: gear-1710299_1280_75
+    21300152: gear-1710299_1280_76
+    21300154: gear-1710299_1280_77
+    21300156: gear-1710299_1280_78
+    21300158: gear-1710299_1280_79
+    21300160: gear-1710299_1280_80
+    21300162: gear-1710299_1280_81
+    21300164: gear-1710299_1280_82
+    21300166: gear-1710299_1280_83
+    21300168: gear-1710299_1280_84
+    21300170: gear-1710299_1280_85
+    21300172: gear-1710299_1280_86
+    21300174: gear-1710299_1280_87
+    21300176: gear-1710299_1280_88
+    21300178: gear-1710299_1280_89
+    21300180: gear-1710299_1280_90
+    21300182: gear-1710299_1280_91
+    21300184: gear-1710299_1280_92
+    21300186: gear-1710299_1280_93
+    21300188: gear-1710299_1280_94
+    21300190: gear-1710299_1280_95
+    21300192: gear-1710299_1280_96
+    21300194: gear-1710299_1280_97
+    21300196: gear-1710299_1280_98
+    21300198: gear-1710299_1280_99
+    21300200: gear-1710299_1280_100
+    21300202: gear-1710299_1280_101
+    21300204: gear-1710299_1280_102
+    21300206: gear-1710299_1280_103
+    21300208: gear-1710299_1280_104
+    21300210: gear-1710299_1280_105
+    21300212: gear-1710299_1280_106
+    21300214: gear-1710299_1280_107
+    21300216: gear-1710299_1280_108
+    21300218: gear-1710299_1280_109
+    21300220: gear-1710299_1280_110
+    21300222: gear-1710299_1280_111
+    21300224: gear-1710299_1280_112
+    21300226: gear-1710299_1280_113
+    21300228: gear-1710299_1280_114
+    21300230: gear-1710299_1280_115
+    21300232: gear-1710299_1280_116
+    21300234: gear-1710299_1280_117
+    21300236: gear-1710299_1280_118
+    21300238: gear-1710299_1280_119
+    21300240: gear-1710299_1280_120
+    21300242: gear-1710299_1280_121
+    21300244: gear-1710299_1280_122
+    21300246: gear-1710299_1280_123
+    21300248: gear-1710299_1280_124
+    21300250: gear-1710299_1280_125
+    21300252: gear-1710299_1280_126
+    21300254: gear-1710299_1280_127
+    21300256: gear-1710299_1280_128
+    21300258: gear-1710299_1280_129
+    21300260: gear-1710299_1280_130
+    21300262: gear-1710299_1280_131
+    21300264: gear-1710299_1280_132
+    21300266: gear-1710299_1280_133
+    21300268: gear-1710299_1280_134
+    21300270: gear-1710299_1280_135
+    21300272: gear-1710299_1280_136
+    21300274: gear-1710299_1280_137
+    21300276: gear-1710299_1280_138
+    21300278: gear-1710299_1280_139
+    21300280: gear-1710299_1280_140
+    21300282: gear-1710299_1280_141
+    21300284: gear-1710299_1280_142
+    21300286: gear-1710299_1280_143
+    21300288: gear-1710299_1280_144
+    21300290: gear-1710299_1280_145
+    21300292: gear-1710299_1280_146
+    21300294: gear-1710299_1280_147
+    21300296: gear-1710299_1280_148
+    21300298: gear-1710299_1280_149
+    21300300: gear-1710299_1280_150
+    21300302: gear-1710299_1280_151
+    21300304: gear-1710299_1280_152
+    21300306: gear-1710299_1280_153
+    21300308: gear-1710299_1280_154
+    21300310: gear-1710299_1280_155
+    21300312: gear-1710299_1280_156
+    21300314: gear-1710299_1280_157
+    21300316: gear-1710299_1280_158
+    21300318: gear-1710299_1280_159
+    21300320: gear-1710299_1280_160
+    21300322: gear-1710299_1280_161
+    21300324: gear-1710299_1280_162
+    21300326: gear-1710299_1280_163
+    21300328: gear-1710299_1280_164
+    21300330: gear-1710299_1280_165
+    21300332: gear-1710299_1280_166
+    21300334: gear-1710299_1280_167
+    21300336: gear-1710299_1280_168
+    21300338: gear-1710299_1280_169
+    21300340: gear-1710299_1280_170
+    21300342: gear-1710299_1280_171
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gear-1710299_1280_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 369
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gear-1710299_1280_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 412
+        width: 371
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gear-1710299_1280_2
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 414
+        width: 368
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gear-1710299_1280_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 370
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gear-1710299_1280_4
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 0
+        width: 370
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
